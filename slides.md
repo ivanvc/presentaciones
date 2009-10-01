@@ -338,10 +338,11 @@ touché
 ## 
 
 !SLIDE
-# Fuentes
+# Referencias
 * [why_datamapper](http://datamapper.org/doku.php?id=why_datamapper)
 * [Hooks](http://datamapper.org/doku.php?id=docs:hooks&s[]=hooks)
 * [Validations](http://datamapper.org/doku.php?id=docs:validations&s[]=hooks)
 * [DM in 20mins](http://www.slideshare.net/mattetti/datamapper-in-20-min-presentation)
 * [Replacing ActiveRecord with DataMapper](http://www.slideshare.net/PeterDP/replacing-active-record-with-data-mapper-presentation)
 * [Flickr](http://www.flickr.com/)
+* [rails_datamapper](http://github.com/gnarg/dm-more/tree/master/rails_datamapper/)
