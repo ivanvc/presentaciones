@@ -1,0 +1,6 @@
+%h2= fruti_lupi.nombre
+%p= fruti_lupi.tamano
+%p= fruti_lupi.color
+
+= link_to "Editar", edit_fruti_lupi_path(fruti_lupi)
+= link_to "Borrar", fruti_lupi, :method => :delete, :confirm => "Estás seguro?"
