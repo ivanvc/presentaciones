@@ -1,6 +1,6 @@
 !SLIDE
 
-###### Fork me at git://github.com/ivanvc/presentacion-dm.git
+###### Fork me at [github](git://github.com/ivanvc/presentacion-dm.git)
 
 DataMapper
 ==========
