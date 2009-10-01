@@ -1,0 +1,22 @@
+.l-Scalar-Plain {
+  color: rgb(0, 128, 128);
+}
+.p-Indicator {
+  color: rgb(221, 17, 68);
+}
+.right {
+  position: relative;
+  float: right;
+}
+.p-280 {
+  top: -280px;
+}
+.p-300 {
+  top: -300px;
+}
+.p-380 {
+  top: -380px;
+}
+.p-420 {
+  top: -420px;
+}
