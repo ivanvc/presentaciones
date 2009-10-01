@@ -306,9 +306,9 @@ touché
 
 !SLIDE
 
-# Ok, 4 p*tas por favor
+# Cuatro p*tas por favor
 ## Gems
-  * data_mapper
+  * rails_datamapper
   * do_mysql (o do_postrges o do_sqlite3)
   
 ## environemnt.rb
@@ -325,7 +325,7 @@ touché
 
 !SLIDE
 
-# Ok, 4 p*tas por favor
+# Cuatro p*tas por favor
 ## config/initializers/dm.rb
 
 @@@ ruby
